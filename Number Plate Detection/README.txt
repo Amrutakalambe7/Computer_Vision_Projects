@@ -1,0 +1,3 @@
+Number Plate Detection Using OpenCV (cv2)
+
+Number plate detection using OpenCV involves identifying and extracting vehicle license plates from images or video streams. The process utilizes computer vision techniques to detect rectangular regions in an image that likely contain a license plate. The aim is to automate the identification and extraction of license plates for various applications such as vehicle tracking, automated parking systems, and traffic monitoring.
